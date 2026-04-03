@@ -6,7 +6,7 @@ import {
 } from '../assets/dummyStyles'
 import { Calendar, Search, BadgeIndianRupee } from 'lucide-react'
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://health-lrjl.onrender.com";
 
 //HELPERS FUNCTION
 // this function returns the date as 19 Maech 2026
